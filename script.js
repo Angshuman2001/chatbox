@@ -51,11 +51,10 @@ $(window).on('keydown', function(e) {
 
 var Fake = [
   '<img src=" https://media.tumblr.com/78a9d3eae59a2a3ed8531b482bdc5a4f/tumblr_inline_mgzkontwjP1rxsw83.gif"></img> <b><center>Happy Birthday! Anwesha :) </b><br><br>So any plans for today?',
-    'ok....ki korchis?',
+    'Thats Good!',
   'Hey Anwesha...sorry for not giving you proper gifts this time...I just wanted to do something different this time...so made these for you...hope you like it..!',
   'Thanks....take care and enjoy to the fullest...',
-  'Enjoy your day!',
-  'Bhalo kore enjoy koris...phone koreo wish kore debo toke...ok?'
+  'Bhalo kore enjoy koris...phone koreo wish kore debo toke...ok?',
   'Bye...good night!',
   ':)' ,
 ]
